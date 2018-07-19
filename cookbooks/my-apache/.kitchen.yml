@@ -1,7 +1,6 @@
 ---
 driver:
   name: docker
-  binary: docker.exe
   use_sudo: false
   privileged: true
 
